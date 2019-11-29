@@ -1,0 +1,12 @@
+str1="hi"
+num1=20
+f1=3.14
+b1=True
+print(str(num1))
+print(str(f1))
+print(str(b1))
+str1="200.9"
+print(int(float(str1)))
+print(int(f1))
+print(int(b1))
+print(bool(str1))

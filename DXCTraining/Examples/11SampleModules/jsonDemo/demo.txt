@@ -1,0 +1,38 @@
+[
+	{
+		"id":1,
+		"fname":"Sachin" ,
+		"lname":"Tendulkar",
+		"address":{
+					"houseno":17,
+					"streetno":19,
+					"area":"worli",
+					"city":"UP",
+					"pin":1223445
+					}
+	},
+	{
+		"id":1,
+		"fname":"Sachin" , 
+		"lname":"Tendulkar",
+		"address":{
+					"houseno":17,
+					"streetno":19,
+					"area":"worli",
+					"city":"uk",
+					"pin":1223445
+					}
+	},
+	{
+		"id":1,
+		"fname":"Sachin" ,
+		"lname":"Tendulkar",
+		"address":{
+					"houseno":17,
+					"streetno":19,
+					"area":"worli",
+					"city":"Delhi",
+					"pin":1223445
+					}
+	}
+]
